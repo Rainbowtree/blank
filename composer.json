@@ -1,0 +1,16 @@
+{
+    "name": "jessechen/blank-package",
+    "description": "空",
+    "authors": [
+        {
+            "name": "陈希",
+            "email": "chenxi@edusoho.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "JC\\FirstPackage\\": "src/"
+        }
+    }
+}
